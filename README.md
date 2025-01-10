@@ -19,7 +19,7 @@ A Flask-based web application that simulates phishing email campaigns and tracks
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/phishing-simulation-tool.git
+`git clone https://github.com/mmabiaa/phishing-simulation-tool.git`
 
 2. Create a virtual environment:
 python -m venv venv

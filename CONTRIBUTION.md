@@ -36,3 +36,9 @@ There are several ways you can contribute:
 
 Before submitting a pull request, please ensure that your changes do not break any existing functionality. You can run tests using:
 
+
+## License
+
+By contributing, you agree that your contributions will be licensed under the same license as this project (MIT License).
+
+Thank you for contributing!
